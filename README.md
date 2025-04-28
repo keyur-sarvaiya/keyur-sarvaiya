@@ -1,6 +1,6 @@
 ![Welcome Banner](https://github.com/keyur-sarvaiya/keyur-sarvaiya/blob/main/images/profile.png)
 
-## 👨🏻‍💻 **Web Developer | Python | NodeJs | BCA Student**.
+## 👨🏻‍💻 **Web DevelopeR | MCA Student**.
 
 
 🔬 I’m currently learning and exploring:
@@ -10,21 +10,14 @@
 
 📫 How to reach me:
 <p>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=siddharthsarvaiya56@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=keyursravaiya4@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/siddharth-sarvaiya/" target="_blank">
+  <a href="https://www.linkedin.com/in/keyur-sarvaiya/" target="_blank">
    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge" />
   </a>
 </p>
 
-⚡ Check Out :
-<br>
-<p>
-   <a href="https://leetcode.com/u/siddharth756/" target="_blank">
-        <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
-   </a>
-</p>
 
 ---
 
