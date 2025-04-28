@@ -1,6 +1,6 @@
 ![Welcome Banner](https://github.com/keyur-sarvaiya/keyur-sarvaiya/blob/main/images/profile.png)
 
-## 👨🏻‍💻 **Web DevelopeR | MCA Student**.
+## 👨🏻‍💻 **Web Developer | MCA Student**.
 
 
 🔬 I’m currently learning and exploring:
@@ -44,8 +44,7 @@
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/djangorest/djangorest-original-wordmark.svg" />
+
   </kbd>
    <br>
    <br>
@@ -84,15 +83,6 @@
 
 
 ---
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth756&layout=compact&hide=TSQL&theme=chartreuse-dark">
-&nbsp;
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=siddharth756&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400">
-</p>
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=siddharth756&theme=chartreuse-dark"></p>
-
----
 
 
 ### Let's Connect :coffee:
@@ -110,6 +100,3 @@
 </p>
 
 ---
-
-<p align="center"><b>Visitor's Count</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/siddharth756/count.svg" alt="visitor badge"/></p>
