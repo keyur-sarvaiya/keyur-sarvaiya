@@ -1,4 +1,4 @@
-![Welcome Banner](https://github.com/keyur-sarvaiya/keyur-sarvaiya/blob/main/images/profile.png)
+![Welcome Banner](https://github.com/keyur-sarvaiya/keyur-sarvaiya/blob/main/images/profile.PNG)
 
 ## 👨🏻‍💻 **Web Developer | Python | NodeJs | BCA Student**.
 
