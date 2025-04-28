@@ -98,13 +98,13 @@
 ### Let's Connect :coffee:
 
 <p align="center">
-	<a href="https://github.com/siddharth756/" target="_self">
+	<a href="https://github.com/keyur-sarvaiya/" target="_self">
 		<img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/>
 	</a>
-	<a href="https://www.linkedin.com/in/siddharth-sarvaiya/" target="_blank">
+	<a href="https://www.linkedin.com/in/keyur-sarvaiya/" target="_blank">
 		<img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/>
 	</a>
-	<a href="https://www.instagram.com/siddharth56_s/" target="_blank">
+	<a href="https://www.instagram.com/_keyur_sarvaiya_/" target="_blank">
 		<img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/>
 	</a>
 </p>
